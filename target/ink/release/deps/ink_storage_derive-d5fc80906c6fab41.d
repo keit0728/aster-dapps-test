@@ -1,0 +1,9 @@
+/Users/keit/development/unchain/astar_sns_contract/target/ink/release/deps/libink_storage_derive-d5fc80906c6fab41.dylib: /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/lib.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/packed_layout.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_allocate.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_layout.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/storage_layout.rs
+
+/Users/keit/development/unchain/astar_sns_contract/target/ink/release/deps/ink_storage_derive-d5fc80906c6fab41.d: /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/lib.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/packed_layout.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_allocate.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_layout.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/storage_layout.rs
+
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/lib.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/packed_layout.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_allocate.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/spread_layout.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_storage_derive-3.4.0/src/storage_layout.rs:

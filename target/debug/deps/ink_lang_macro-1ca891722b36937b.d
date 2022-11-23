@@ -1,0 +1,11 @@
+/Users/keit/development/unchain/ASTAR-SocialFi/astar_sns_contract/target/debug/deps/libink_lang_macro-1ca891722b36937b.dylib: /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/lib.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/blake2b.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/chain_extension.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/contract.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/ink_test.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/selector.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/trait_def.rs
+
+/Users/keit/development/unchain/ASTAR-SocialFi/astar_sns_contract/target/debug/deps/ink_lang_macro-1ca891722b36937b.d: /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/lib.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/blake2b.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/chain_extension.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/contract.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/ink_test.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/selector.rs /Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/trait_def.rs
+
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/lib.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/blake2b.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/chain_extension.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/contract.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/ink_test.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/selector.rs:
+/Users/keit/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_lang_macro-3.4.0/src/trait_def.rs:

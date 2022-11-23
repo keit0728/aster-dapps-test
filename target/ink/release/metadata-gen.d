@@ -1,0 +1,1 @@
+/Users/keit/development/unchain/astar_sns_contract/target/ink/release/metadata-gen: /Users/keit/development/unchain/astar_sns_contract/lib.rs /private/var/folders/8x/xkh_1rq15ks95ddnj9ztj6sh0000gn/T/cargo-contract_NDppZY/.ink/metadata_gen/main.rs

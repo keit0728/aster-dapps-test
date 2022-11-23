@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/keit/development/unchain/astar_sns_contract/target/dylint/target/nightly-2022-06-30-aarch64-apple-darwin/debug/build/typenum-19386a06d51cba7c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/keit/development/unchain/astar_sns_contract/target/dylint/target/nightly-2022-06-30-aarch64-apple-darwin/debug/build/typenum-19386a06d51cba7c/out/op.rs
